@@ -16,11 +16,11 @@ export default defineNuxtConfig({
                 },
                 {
                     name: 'msapplication-TileColor',
-                    content: '#732914'
+                    content: '#1C2C1F'
                 },
                 {
                     name: 'theme-color',
-                    content: '#732914'
+                    content: '#1C2C1F'
                 }
             ],
             link: [
