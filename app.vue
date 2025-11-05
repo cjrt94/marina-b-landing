@@ -18,7 +18,7 @@
         <!--Form-->
         <form action="https://submit-form.com/0I5x40oY1" class="flex flex-col space-y-4 font-secondary text-neutral-800  [&_input]:text-sm  [&_input]:outline-0 [&_input]:h-[40px] [&_input]:w-[190px] [&_input]:px-4 [&_input]:sm:w-full">
           <div class="grid grid-cols-2 gap-4 sm:grid-cols-1">
-            <input v-model="document.name" type="text" placeholder="Name" required name="name">
+            <input v-model="document.name" type="text" placeholder="First Name" required name="name">
             <input v-model="document.lastName" type="text" placeholder="Last Name" required name="lastName">
           </div>
 
